@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<scores>
+	<student id="1">
+		<uesr name="韩冬">
+			<subject course="java1">
+				<count scose="38">
+				</count>
+			</subject>
+		</uesr>		
+	</student>
+	<student id="2">
+		<uesr name="苑阳阳">
+			<subject course="java2">
+				<count scose="39">
+				</count>
+			</subject>
+		</uesr>		
+	</student>
+	<student id="3">
+		<uesr name="赵恒文">
+			<subject course="java3">
+				<count scose="40">
+				</count>
+			</subject>
+		</uesr>		
+	</student>		
+</scores>	

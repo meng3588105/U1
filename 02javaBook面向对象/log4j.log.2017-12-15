@@ -1,0 +1,12 @@
+[FATAL] 2017-12-15 15:50:53,599(0) --> [main] com.log4j.ceshi.LogDemo.main(LogDemo.java:8): fatal   msg  
+  [ERROR] 2017-12-15 15:50:53,605(6) --> [main] com.log4j.ceshi.LogDemo.main(LogDemo.java:9): error   msg  
+  [WARN ] 2017-12-15 15:50:53,606(7) --> [main] com.log4j.ceshi.LogDemo.main(LogDemo.java:10): warn   msg  
+  [INFO ] 2017-12-15 15:50:53,606(7) --> [main] com.log4j.ceshi.LogDemo.main(LogDemo.java:11): info   msg  
+  [DEBUG] 2017-12-15 15:50:53,606(7) --> [main] com.log4j.ceshi.LogDemo.main(LogDemo.java:12): debug   msg  
+  [FATAL] 2017-12-15 15:51:47,767(0) --> [main] com.log4j.ceshi.LogDemo.main(LogDemo.java:8): fatal   msg  
+  [ERROR] 2017-12-15 15:51:47,774(7) --> [main] com.log4j.ceshi.LogDemo.main(LogDemo.java:9): error   msg  
+  [WARN ] 2017-12-15 15:51:47,775(8) --> [main] com.log4j.ceshi.LogDemo.main(LogDemo.java:10): warn   msg  
+  [INFO ] 2017-12-15 15:51:47,775(8) --> [main] com.log4j.ceshi.LogDemo.main(LogDemo.java:11): info   msg  
+  [DEBUG] 2017-12-15 15:51:47,775(8) --> [main] com.log4j.ceshi.LogDemo.main(LogDemo.java:12): debug   msg  
+  [ERROR] 2017-12-15 16:09:53,935(0) --> [main] com.OO.yichang.ZuoYe01.main(ZuoYe01.java:17): 3输入不匹配  
+  

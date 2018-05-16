@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<scores>
+	<student id="1">
+		<name>韩冬</name>	
+		<course>java1</course>
+		<scose>37</scose>
+	</student>			
+	<student id="2">
+		<name>苑阳阳</name>	
+		<course>java2</course>
+		<scose>38</scose>
+	</student>		
+	
+	<student id="3">
+		<name>赵恒文</name>	
+		<course>java3</course>
+		<scose>39</scose>
+	</student>			
+</scores>	

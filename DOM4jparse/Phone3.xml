@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="GBK"?>
+
+<PhoneInfo> 
+  <Brand name="华为" id="1"> 
+    <Type name="P9"/> 
+  </Brand>  
+  <Brand name="苹果" id="2"> 
+    <Type name="iphone5"/>  
+    <Type name="iphone6"/> 
+  </Brand> 
+</PhoneInfo>

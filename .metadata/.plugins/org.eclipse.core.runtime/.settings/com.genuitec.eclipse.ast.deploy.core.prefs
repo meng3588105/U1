@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+myeclipseTomcatServer.JSTL.IEARProjectName=
+myeclipseTomcatServer.JSTL.altContextRoot=
+myeclipseTomcatServer.JSTL.contextRoot=/JSTL
+myeclipseTomcatServer.JSTL.deployIsOverProject=false
+myeclipseTomcatServer.JSTL.deploymentPath=G\:\\MyEclipse_java\\.metadata\\.me_tcat\\webapps\\JSTL
+myeclipseTomcatServer.JSTL.isDeployed=true
+myeclipseTomcatServer.JSTL.isExploded=true
+myeclipseTomcatServer.JSTL.isUptoDate=true
+myeclipseTomcatServer.JSTL.noFileCopy=false
+myeclipseTomcatServer.JSTL.shouldBackup=false
+myeclipseTomcatServer.JSTL.shouldOverwrite=false
+myeclipseTomcatServer.JSTL.type=WebDeployment

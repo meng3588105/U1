@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="ScriptOne"
+  id="myeclipse.1517912982353"
+  context-root="/ScriptOne"
+  j2ee-spec="5.0"
+  archive="ScriptOne.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

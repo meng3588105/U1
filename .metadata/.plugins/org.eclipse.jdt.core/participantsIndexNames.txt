@@ -1,0 +1,9 @@
+INDEX VERSION 1.126
+G:\MyEclipse_java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3886545040.index
+\JSTL\src
+G:\MyEclipse_java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2751055376.index
+\ScriptOne\src
+G:\MyEclipse_java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1971673299.index
+\jsp_001\src
+G:\MyEclipse_java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3788750149.index
+\Demo\src

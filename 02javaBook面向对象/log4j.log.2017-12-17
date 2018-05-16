@@ -1,0 +1,6 @@
+[FATAL] 2017-12-17 20:42:22,343(0) --> [main] com.log4j.ceshi.LogDemo.main(LogDemo.java:8): fatal   msg  
+  [ERROR] 2017-12-17 20:42:22,364(21) --> [main] com.log4j.ceshi.LogDemo.main(LogDemo.java:9): error   msg  
+  [WARN ] 2017-12-17 20:42:22,365(22) --> [main] com.log4j.ceshi.LogDemo.main(LogDemo.java:10): warn   msg  
+  [INFO ] 2017-12-17 20:42:22,365(22) --> [main] com.log4j.ceshi.LogDemo.main(LogDemo.java:11): info   msg  
+  [DEBUG] 2017-12-17 20:42:22,365(22) --> [main] com.log4j.ceshi.LogDemo.main(LogDemo.java:12): debug   msg  
+  
